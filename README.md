@@ -1,4 +1,4 @@
-##  Uptoskill Internship – Data Analytics Project
+###  Uptoskill Internship – Data Analytics Project
 
 ##  Project Overview
 This project was completed as part of my Uptoskill Internship, focusing on data analysis and dashboard development.
@@ -34,15 +34,15 @@ This dashboard provides a high-level overview of the internship program. It high
 
 🔹This dashboard tracks month-wise intern onboarding trends. It helps identify peak and low periods, supporting better planning for recruitment and training schedules.
 
-##Regional Domain Trends
+##  Regional Domain Trends
 
  🔹This dashboard shows regional distribution of interns across domains. It highlights region-specific domain demand and helps understand geographical trends in skill preferences.
 
-##redictive Analysis
+##  Predictive Analysis
 
  🔹This dashboard provides future-oriented insights by analyzing historical trends. It supports forecasting and helps stakeholders prepare for upcoming internship cycles.
 
-📄 Presentation
+##  📄 Presentation
 
 A detailed PDF presentation is included, explaining:
 
@@ -50,11 +50,11 @@ Problem statement
 
 Dashboard approach
 
-Key insights and findings
+##  Key insights and findings
 
 📎 File: Presentation_Uptoskill_Project.pdf
 
-🚀 Key Takeaways
+##  🚀 Key Takeaways
 
 Improved understanding of intern distribution across companies, colleges, and regions
 
@@ -62,7 +62,7 @@ Identified time-based and domain-specific trends
 
 Strengthened skills in data visualization and insight storytelling
 
-👩‍💻 About Me
+##  👩‍💻 About Me
 
 Ruby Yadav
 Aspiring Data Analyst / BI Analyst
