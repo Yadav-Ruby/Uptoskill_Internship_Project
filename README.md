@@ -1,4 +1,4 @@
-##   Uptoskill Internship – Data Analytics Project
+#   Uptoskill Internship – Data Analytics Project
 
 ##  Project Overview
 This project was completed as part of my Uptoskill Internship, focusing on data analysis and dashboard development.
