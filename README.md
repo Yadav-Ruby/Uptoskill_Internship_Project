@@ -4,14 +4,14 @@
 This project was completed as part of my Uptoskill Internship, focusing on data analysis and dashboard development.
 The goal was to analyze intern-related data and present actionable insights using visual dashboards.
 
-##Tools Used
+##  Tools Used
 
 Power BI – Dashboard & visualization.
 Excel – Data cleaning and preprocessing.
 SQL - Data extraction and analysis.
 Git & GitHub – Version control and portfolio hosting.
 
-##📊  Dashboard Insights
+##  📊  Dashboard Insights
   ##  Intern & College Dashboard
 <img width="996" height="526" alt="Intern   College Dasboard" src="https://github.com/user-attachments/assets/a81bb7e2-1e7f-4a2f-a8e5-1dec52440e96" />
 
