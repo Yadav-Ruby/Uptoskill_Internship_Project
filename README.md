@@ -1,22 +1,23 @@
-##📊 Uptoskill Internship – Data Analytics Project
+##  Uptoskill Internship – Data Analytics Project
 
-##Project Overview
+##  Project Overview
 This project was completed as part of my Uptoskill Internship, focusing on data analysis and dashboard development.
 The goal was to analyze intern-related data and present actionable insights using visual dashboards.
 
 ##Tools Used
 
-Power BI – Dashboard & visualization
-Excel – Data cleaning and preprocessing
-Git & GitHub – Version control and portfolio hosting
+Power BI – Dashboard & visualization.
+Excel – Data cleaning and preprocessing.
+SQL - Data extraction and analysis.
+Git & GitHub – Version control and portfolio hosting.
 
-##📊 Dashboard Insights
-  ##Intern & College Dashboard
+##📊  Dashboard Insights
+  ##  Intern & College Dashboard
 <img width="996" height="526" alt="Intern   College Dasboard" src="https://github.com/user-attachments/assets/a81bb7e2-1e7f-4a2f-a8e5-1dec52440e96" />
 
  🔹This view focuses on college-wise contributions. It shows how different institutions participate in the internship program and helps identify top and underrepresented colleges.
 
-##Intern & Company Dashboard
+##  Intern & Company Dashboard
 <img width="993" height="525" alt="Intern   Company  Dashoard" src="https://github.com/user-attachments/assets/10f093f8-49ba-4ed4-bb54-f509c783ebdc" />
 
  🔹This dashboard analyzes company-wise intern participation. It helps identify top participating companies, compare intern distribution across organizations, and evaluate company engagement levels.
@@ -27,7 +28,7 @@ Git & GitHub – Version control and portfolio hosting
 
 This dashboard provides a high-level overview of the internship program. It highlights key KPIs such as total interns, companies, colleges, and domains, along with overall trends and distributions. It helps stakeholders quickly understand the overall performance and scale of the program.
 
-##Monthly Intern Count
+##  Monthly Intern Count
 
 ![Monthly Intern Count](https://github.com/user-attachments/assets/4f1af84a-6619-4ce5-811b-619c7d855ec1)
 
