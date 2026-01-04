@@ -82,5 +82,7 @@ Strengthened skills in data visualization and insight storytelling
 ##  👩‍💻 About Me
 
 Ruby Yadav
+
 Aspiring Data Analyst / BI Analyst
-Skills: Power BI, Excel, SQL (Basics), Python (Basics)
+
+Skills: Power BI, Excel, SQL, Python.
