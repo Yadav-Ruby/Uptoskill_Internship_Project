@@ -36,9 +36,21 @@ This dashboard provides a high-level overview of the internship program. It high
 
 ##  Regional Domain Trends
 
+[Presentation_Uptoskill_Project.pdf](https://github.com/user-attachments/files/24420910/Presentation_Uptoskill_Project.pdf)
+
  🔹This dashboard shows regional distribution of interns across domains. It highlights region-specific domain demand and helps understand geographical trends in skill preferences.
 
 ##  Predictive Analysis
+
+![Predictive Analysis](https://github.com/user-attachments/assets/65641dd9-a574-4c2c-b207-0298d4a77c01)
+
+  🔹 Predicted intern counts for upcoming periods
+
+  🔹 Comparison between historical and projected trends
+
+  🔹 Visual indicators to show expected growth or stability
+
+  The dashboard allows stakeholders to visually understand future expectations, not just numbers.
 
  🔹This dashboard provides future-oriented insights by analyzing historical trends. It supports forecasting and helps stakeholders prepare for upcoming internship cycles.
 
@@ -52,7 +64,8 @@ Dashboard approach
 
 ##  Key insights and findings
 
-📎 File: Presentation_Uptoskill_Project.pdf
+📎 File: Presentation_Uptoskill_Project.[Presentation_Uptoskill_Project.pdf](https://github.com/user-attachments/files/24421023/Presentation_Uptoskill_Project.pdf)
+pdf
 
 ##  🚀 Key Takeaways
 
