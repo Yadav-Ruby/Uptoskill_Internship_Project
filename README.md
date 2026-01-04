@@ -6,10 +6,14 @@ The goal was to analyze intern-related data and present actionable insights usin
 
 ##  Tools Used
 
-Power BI – Dashboard & visualization.
-Excel – Data cleaning and preprocessing.
-SQL - Data extraction and analysis.
-Git & GitHub – Version control and portfolio hosting.
+**Power BI** – Dashboard & visualization.
+
+**Excel** – Data cleaning and preprocessing.
+
+**SQL** - Data extraction and analysis.
+
+**Git & GitHub** – Version control and portfolio hosting.
+
 
 ##  📊  Dashboard Insights
   ##  Intern & College Dashboard
