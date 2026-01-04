@@ -23,7 +23,7 @@ Git & GitHub – Version control and portfolio hosting.
  🔹This dashboard analyzes company-wise intern participation. It helps identify top participating companies, compare intern distribution across organizations, and evaluate company engagement levels.
 
 
-##Overall Summary Dashboard
+##  Overall Summary Dashboard
 <img width="903" height="509" alt="Overall Summary Dasboard" src="https://github.com/user-attachments/assets/6b4bf084-c9ed-4657-8c05-4a0c39fabf6f" />
 
 This dashboard provides a high-level overview of the internship program. It highlights key KPIs such as total interns, companies, colleges, and domains, along with overall trends and distributions. It helps stakeholders quickly understand the overall performance and scale of the program.
