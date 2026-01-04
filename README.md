@@ -36,7 +36,7 @@ This dashboard provides a high-level overview of the internship program. It high
 
 ##  Regional Domain Trends
 
-[Presentation_Uptoskill_Project.pdf](https://github.com/user-attachments/files/24420910/Presentation_Uptoskill_Project.pdf)
+![Regional Domain Trends](https://github.com/user-attachments/assets/600c610f-0943-4b96-92cc-d1ef5e50a737)
 
  🔹This dashboard shows regional distribution of interns across domains. It highlights region-specific domain demand and helps understand geographical trends in skill preferences.
 
