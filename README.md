@@ -14,15 +14,15 @@ Organizations that manage internship-to-hiring programs often face challenges in
 
 The key business challenges addressed in this project include:
 
- • Identifying how many active company contacts are required to successfully place interns into job roles.
+   • Identifying how many active company contacts are required to successfully place interns into job roles.
 
- • Determining the number of colleges and courses needed to maintain a steady pipeline of skilled interns.
+   • Determining the number of colleges and courses needed to maintain a steady pipeline of skilled interns.
 
- • Analyzing internship and hiring data to understand layoffs occurring during specific months and identifying the contributing factors.
+   • Analyzing internship and hiring data to understand layoffs occurring during specific months and identifying the contributing factors.
 
- • Assessing gaps between intern availability, company demand, and college supply.
+   • Assessing gaps between intern availability, company demand, and college supply.
 
- • Predicting future hiring and layoff trends based on historical data to support better workforce planning and recovery strategies.
+   • Predicting future hiring and layoff trends based on historical data to support better workforce planning and recovery strategies.
 
 The lack of consolidated insights across company data, college data, and intern data makes it difficult for decision-makers to take timely actions. This project aims to solve that problem by transforming real-world datasets into actionable insights and predictive analysis, enabling organizations to optimize hiring strategies, reduce layoffs, and improve intern placement success rates.
 
@@ -99,65 +99,65 @@ To address the identified business challenges, a structured data analytics appro
 
 **1. Data Understanding & Integration**
 
-  • Collected and reviewed three primary datasets: Company Data, College Data, and Intern Data.
+   • Collected and reviewed three primary datasets: Company Data, College Data, and Intern Data.
 
-  • Mapped relationships between companies, colleges, and interns to understand the complete internship-to-hiring ecosystem.
+   • Mapped relationships between companies, colleges, and interns to understand the complete internship-to-hiring ecosystem.
 
-  • Identified key attributes such as company contacts, intern domains, college affiliations, joining/completion dates, and hiring status.
+   • Identified key attributes such as company contacts, intern domains, college affiliations, joining/completion dates, and hiring status.
 
 **2. Data Cleaning & Preprocessing**
 
-  • Handled missing, duplicate, and inconsistent records across all datasets.
+   • Handled missing, duplicate, and inconsistent records across all datasets.
 
-  • Standardized formats for dates, states, domains, and designations to ensure data accuracy.
+   • Standardized formats for dates, states, domains, and designations to ensure data accuracy.
 
-  • Removed irrelevant or incomplete entries to improve analysis reliability.
+   • Removed irrelevant or incomplete entries to improve analysis reliability.
 
 **3. Exploratory Data Analysis (EDA)**
 
-  • Analyzed company outreach effectiveness to determine how many company contacts are required to achieve successful intern placements.
+   • Analyzed company outreach effectiveness to determine how many company contacts are required to achieve successful intern placements.
 
-  • Evaluated college participation to understand the number of colleges and courses needed to maintain a consistent intern pipeline.
+   • Evaluated college participation to understand the number of colleges and courses needed to maintain a consistent intern pipeline.
 
-  • Performed time-based analysis to identify monthly hiring and layoff patterns.
+   • Performed time-based analysis to identify monthly hiring and layoff patterns.
 
 **4. Insight Generation & KPI Identification**
 
-  • Defined key performance indicators (KPIs) such as:
+   • Defined key performance indicators (KPIs) such as:
 
-  • Intern-to-hire conversion rate
+   • Intern-to-hire conversion rate
 
-  • Active company engagement count
+   • Active company engagement count
 
-  • College contribution to intern supply
+   • College contribution to intern supply
 
-  • Monthly hiring vs. layoff trends
+   • Monthly hiring vs. layoff trends
 
-  • Identified bottlenecks and imbalance between intern availability and company demand.
+   • Identified bottlenecks and imbalance between intern availability and company demand.
 
 **5. Visualization & Dashboard Development**
 
-  • Developed interactive dashboards using Power BI to present insights in a clear and actionable format.
+   • Developed interactive dashboards using Power BI to present insights in a clear and actionable format.
 
-  • Enabled filtering by state, domain, college, and time period for deeper analysis.
+   • Enabled filtering by state, domain, college, and time period for deeper analysis.
 
-  • Designed visuals to support strategic decision-making for hiring and recovery planning.
+   • Designed visuals to support strategic decision-making for hiring and recovery planning.
 
 **6. Predictive Analysis & Recovery Planning**
 
-  • Used historical data trends to predict future hiring and layoff scenarios.
+   • Used historical data trends to predict future hiring and layoff scenarios.
 
-  • Identified high-risk months for layoffs and proposed recovery strategies based on past patterns.
+   • Identified high-risk months for layoffs and proposed recovery strategies based on past patterns.
 
-  • Provided data-backed recommendations to optimize company outreach, college partnerships, and intern onboarding.
+   • Provided data-backed recommendations to optimize company outreach, college partnerships, and intern onboarding.
 
 **7. Business Recommendations**
 
-  • Suggested optimal numbers of company contacts and college partnerships to improve hiring outcomes.
+   • Suggested optimal numbers of company contacts and college partnerships to improve hiring outcomes.
 
-  • Recommended proactive planning during low-hiring months to minimize layoffs.
+   • Recommended proactive planning during low-hiring months to minimize layoffs.
 
-  • Highlighted strategies to balance intern intake with company demand.
+   • Highlighted strategies to balance intern intake with company demand.
 
 ## Outcome
 
