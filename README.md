@@ -8,6 +8,8 @@ Using data cleaning, KPI analysis, and interactive Power BI dashboards, raw data
 
 This project demonstrates my  team's ability to work with real-world, messy datasets, translate business problems into analytical solutions, and present insights in a way that supports strategic decision-making. It reflects our readiness to contribute to data-driven hiring, workforce planning, and business analytics roles in a professional environment.
 
+⁕ Note: The dataset used in this project has been modified to maintain confidentiality and privacy.
+
 ##  Business Problem
 
 Organizations that manage internship-to-hiring programs often face challenges in coordinating between companies, colleges, and interns while ensuring consistent hiring outcomes. Despite having multiple company contacts and college partnerships, inefficiencies in data tracking and analysis can lead to lower hiring conversions, uneven intern onboarding, and unexpected layoffs during certain periods.
