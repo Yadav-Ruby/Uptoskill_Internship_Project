@@ -14,15 +14,15 @@ Organizations that manage internship-to-hiring programs often face challenges in
 
 The key business challenges addressed in this project include:
 
-Identifying how many active company contacts are required to successfully place interns into job roles.
+• Identifying how many active company contacts are required to successfully place interns into job roles.
 
-Determining the number of colleges and courses needed to maintain a steady pipeline of skilled interns.
+• Determining the number of colleges and courses needed to maintain a steady pipeline of skilled interns.
 
-Analyzing internship and hiring data to understand layoffs occurring during specific months and identifying the contributing factors.
+• Analyzing internship and hiring data to understand layoffs occurring during specific months and identifying the contributing factors.
 
-Assessing gaps between intern availability, company demand, and college supply.
+• Assessing gaps between intern availability, company demand, and college supply.
 
-Predicting future hiring and layoff trends based on historical data to support better workforce planning and recovery strategies.
+• Predicting future hiring and layoff trends based on historical data to support better workforce planning and recovery strategies.
 
 The lack of consolidated insights across company data, college data, and intern data makes it difficult for decision-makers to take timely actions. This project aims to solve that problem by transforming real-world datasets into actionable insights and predictive analysis, enabling organizations to optimize hiring strategies, reduce layoffs, and improve intern placement success rates.
 
