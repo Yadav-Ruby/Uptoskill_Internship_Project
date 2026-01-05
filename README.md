@@ -1,4 +1,12 @@
-#   Uptoskill Internship – Data Analytics Project
+#   End-to-End Data Analytics Project: Insights & Dashboards | UpToSkills Internship
+
+##  Executive Summary
+
+This project was completed during my Data Analytics Internship at UpToSkills, focusing on optimizing the internship-to-hiring process using real-world data. By analyzing company, college, and intern datasets, the project identifies how company outreach and college partnerships impact intern hiring outcomes, explains seasonal layoffs, and predicts future hiring trends.
+
+Using data cleaning, KPI analysis, and interactive Power BI dashboards, raw data was transformed into actionable insights that support workforce planning, hiring optimization, and layoff recovery strategies. This project demonstrates strong capabilities in real-world data analysis, business problem-solving, and insight-driven decision-making.
+
+This project demonstrates my  team's ability to work with real-world, messy datasets, translate business problems into analytical solutions, and present insights in a way that supports strategic decision-making. It reflects our readiness to contribute to data-driven hiring, workforce planning, and business analytics roles in a professional environment.
 
 ##  Project Overview
 This project was completed as part of my Uptoskill Internship, focusing on data analysis and dashboard development.
