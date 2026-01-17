@@ -81,9 +81,9 @@ Organizations managing internship-to-hiring programs face difficulties in aligni
 
   🔹 Visual indicators to show expected growth or stability
 
-  The dashboard allows stakeholders to visually understand future expectations, not just numbers.
+  🔹 The dashboard allows stakeholders to visually understand future expectations, not just numbers.
 
- 🔹This dashboard provides future-oriented insights by analyzing historical trends. It supports forecasting and helps stakeholders prepare for upcoming internship cycles.
+  🔹 This dashboard provides future-oriented insights by analyzing historical trends. It supports forecasting and helps stakeholders prepare for upcoming internship cycles.
 
 
 ##  📄 Presentation
