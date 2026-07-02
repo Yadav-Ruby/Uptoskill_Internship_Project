@@ -86,7 +86,7 @@ Organizations managing internship-to-hiring programs face difficulties in aligni
   🔹 This dashboard provides future-oriented insights by analyzing historical trends. It supports forecasting and helps stakeholders prepare for upcoming internship cycles.
 
 
-##  📄 Presentation
+##   Presentation
 
 A detailed PDF presentation is included, explaining:
 
@@ -170,7 +170,7 @@ To address the identified business challenges, a structured data analytics appro
 
    This solution enabled stakeholders to gain a unified view of the internship hiring ecosystem, reduce uncertainty in decision-making, and improve overall intern placement and workforce stability through data-driven insights.
 
-##  🚀 Key Takeaways
+##   Key Takeaways
 
 Improved understanding of intern distribution across companies, colleges, and regions
 
@@ -178,7 +178,7 @@ Identified time-based and domain-specific trends
 
 Strengthened skills in data visualization and insight storytelling
 
-##  👩‍💻 About Me
+##  About Me
 
 Ruby Yadav
 
